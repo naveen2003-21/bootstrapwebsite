@@ -34,7 +34,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 HOME PAGE:
 <!DOCTYPE html>
 <html lang="en">
@@ -598,7 +598,7 @@ ABOUT US:
 
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/94387019/154213011-17a355ff-c2a8-4edc-9ec8-3149d5804a68.png)
 ![image](https://user-images.githubusercontent.com/94387019/154213078-f794c1e2-3f87-4baf-8e5c-ce0f3acbf454.png)
